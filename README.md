@@ -12,6 +12,12 @@
 <a href="https://www.facebook.com/nabedkhan67">
   <img align="left" alt="Nabed Khan Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.instagram.com/nabed_khan/">
+  <img align="left" alt="Nabed Khan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intagram.svg" />
+</a>
+<a href="https://www.behance.net/nabedkhan67">
+  <img align="left" alt="Nabed Khan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
 
 <br/>
 
