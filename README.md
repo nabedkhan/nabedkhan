@@ -11,7 +11,8 @@
 <a href="https://www.facebook.com/nabedkhan67">
   <img align="left" alt="Nabed Khan Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br />
+
+<br/>
 
 Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh, currently, I am Learning NodeJS and Javascript OOP. Besides programming, I enjoy travelling, playing cricket, workout and bike riding.
 
@@ -29,11 +30,9 @@ Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh,
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </code>
-
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </code>
-
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
