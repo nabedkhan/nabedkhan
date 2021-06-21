@@ -31,7 +31,7 @@ Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh.
 - 🌱 I’m currently learning NodeJS and JavaScript OOP; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Nabed Khan](https://www.facebook.com/nabedkhan67);
-- 📝[Resume](https://drive.google.com/file/d/1YYmagE1OmQEUuGbI4w52zRJO-js_kS91/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1OcL5USL6T0uoRpzgAVNup1rG9Bb6Tkn3/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -62,8 +62,18 @@ Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh.
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
+
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
 </code>
 
 
