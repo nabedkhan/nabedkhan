@@ -35,7 +35,7 @@ Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh.
 
 **Languages and Tools:**  
 
-<code>
+<code style="margin-bottom: 1rem; display: inline-block;">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </code>
 &nbsp;
