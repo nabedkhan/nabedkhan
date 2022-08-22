@@ -23,7 +23,7 @@
 
 Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh. Currently, I am working at <a href="https://github.com/uilibrary">UI-LIB</a>. Besides Programming, I enjoy travelling, playing cricket, workout and bike riding.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="434" height="278" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="434" height="278" /> -->
   
 **Talking about Personal Stuffs:**
 
@@ -74,10 +74,7 @@ Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh.
 <code>
   <img height="30" src="https://vectorwiki.com/images/GAcPQ__nestjs.svg">
 </code>
-
-<br/>
-<br/>
-
+&nbsp;
 <code>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </code>
