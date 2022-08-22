@@ -21,7 +21,7 @@
 
 <br/>
 
-Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh. Currently, I am Learning NodeJS and Javascript OOP. Besides Programming, I enjoy travelling, playing cricket, workout and bike riding.
+Hi, I'm <strong>Nabed Khan</strong>, a Front End Developer 🚀 from Bangladesh. Currently, I am working at <a href="https://github.com/uilibrary">UI-LIB</a>. Besides Programming, I enjoy travelling, playing cricket, workout and bike riding.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
